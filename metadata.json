@@ -1,0 +1,6 @@
+{
+  "name": "APKForge",
+  "description": "Offline on-device Android APK studio for packaging websites, HTML/CSS/JS bundles, and mini-app templates into signed APKs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">APKForge</string>
+    <string name="nav_studio">Studio</string>
+    <string name="nav_builds">Builds</string>
+    <string name="nav_keys">Keys</string>
+    <string name="studio_subtitle">Offline On-Device APK Studio</string>
+    <string name="action_forge_apk">Forge APK</string>
+    <string name="action_live_preview">Preview</string>
+    <string name="action_save_apk">Save APK</string>
+    <string name="action_share_apk">Share APK</string>
+    <string name="action_inspect_apk">Inspect</string>
+    <string name="action_create_key">New Signing Key</string>
+    <string name="empty_builds_title">No forged APKs yet</string>
+    <string name="empty_builds_subtitle">Configure a website URL, HTML bundle, or starter template in Studio to compile and sign your first APK.</string>
+    <string name="error_invalid_package">Use reverse-domain format (e.g. com.studio.myapp)</string>
+    <string name="error_invalid_app_name">App name is required (1–30 characters)</string>
+    <string name="error_invalid_url">Enter a valid http:// or https:// URL</string>
+</resources>
